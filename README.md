@@ -13,7 +13,7 @@ The goal is to build strong foundational knowledge while developing practical se
 
 Notes from the Google Cybersecurity Professional Certificate covering foundational security concepts, networking, Linux, Python, and threat detection:
 
-(https://github.com/marceloburton/google-cybersecurity-certificate)
+(https://github.com/marceloburton/cybersecurity-notes/tree/main/google-cybersecurity-certificate)
 
 ```
 
