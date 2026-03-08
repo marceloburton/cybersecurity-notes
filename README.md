@@ -1,4 +1,4 @@
-# Cybersecurity Learning Notes
+# Cybersecurity Learning Notes 📝
 
 This repository documents my cybersecurity learning journey.
 I use it to organize notes, concepts, labs, and key takeaways while completing courses, certifications, and hands-on training.
