@@ -1,6 +1,6 @@
 # Cybersecurity Learning Notes 📝
 
-This repository documents my cybersecurity learning journey.
+This repository documents my cybersecurity learning journey.  
 I use it to organize notes, concepts, labs, and key takeaways while completing courses, certifications, and hands-on training.
 
 The goal is to build strong foundational knowledge while developing practical security skills.
@@ -13,16 +13,18 @@ The goal is to build strong foundational knowledge while developing practical se
 
 Notes from the Google Cybersecurity Professional Certificate covering foundational security concepts, networking, Linux, Python, and threat detection:
 
-(https://github.com/marceloburton/cybersecurity-notes/tree/main/google-cybersecurity-certificate)
+🔗 https://github.com/marceloburton/cybersecurity-notes/tree/main/google-cybersecurity-certificate
 
-```
+> These notes summarize concepts from the Google Cybersecurity Professional Certificate and are rewritten for personal study and reference.
+
+---
 
 ## Goals
 
-* Document key cybersecurity concepts
-* Build consistent technical documentation habits
-* Reinforce learning through written notes
-* Create a reference library for future projects and certifications
+- Document key cybersecurity concepts
+- Build consistent technical documentation habits
+- Reinforce learning through written notes
+- Create a reference library for future projects and certifications
 
 ---
 
@@ -30,8 +32,8 @@ Notes from the Google Cybersecurity Professional Certificate covering foundation
 
 Planned learning notes for:
 
-* CompTIA Security+
-* TryHackMe Labs
-* Hack The Box Labs
-* Home SOC Lab Documentation
-* Security Tools Practice
+- CompTIA Security+
+- TryHackMe Labs
+- Hack The Box Labs
+- Home SOC Lab Documentation
+- Security Tools Practice
