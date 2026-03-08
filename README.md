@@ -7,7 +7,7 @@ The goal is to build strong foundational knowledge while developing practical se
 
 ---
 
-## Courses & Certifications
+## Courses & Certifications 📁
 
 ### Google Cybersecurity Professional Certificate
 
