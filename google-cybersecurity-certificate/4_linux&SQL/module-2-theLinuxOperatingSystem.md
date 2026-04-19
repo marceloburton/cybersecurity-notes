@@ -190,3 +190,20 @@ Tools used to install, update, and remove software.
 
 ```bash
 echo hello
+hello
+```
+
+The `echo` command prints the text you provide to standard output.
+
+---
+
+## 🧠 Key Takeaways
+
+- Linux is an open-source operating system widely used in cybersecurity  
+- Core components include the user, applications, shell, filesystem, kernel, and hardware  
+- RAM stores temporary data, while hard drives store long-term data  
+- Different Linux distributions are designed for different use cases  
+- Kali Linux is focused on penetration testing and digital forensics  
+- Package managers and tools simplify installing and maintaining software  
+- The shell is the primary way users interact with Linux through commands  
+- Understanding stdin, stdout, and stderr is essential for command-line work  
